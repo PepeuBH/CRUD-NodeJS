@@ -16,9 +16,9 @@ O Sistema possui as seguintes funcionalidades principais:
 
 - Listar todos os Usuários
 
-- Listar um Usuários específico
+- Listar um Usuário específico
 
-- Alterar as informações de um Usuários já existente
+- Alterar as informações de um Usuário já existente
 
 - Deletar um Usuário
 
